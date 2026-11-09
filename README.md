@@ -49,13 +49,13 @@ I have also written two blog posts to explain important TypeScript concepts.
 
 An explanation of how Generics work in TypeScript and how they help create reusable asynchronous functions using `Promise<T>`.
 
-[Read Blog 1: Generics and Promises](./blogs/blog-1-generics-and-promises.md)
+[Read Blog 1: Generics and Promises](./blog-1-generics-and-promises.md)
 
 ### 2. Access Modifiers in TypeScript OOP
 
 An explanation of `public`, `private`, `protected`, and `readonly` access modifiers with practical examples.
 
-[Read Blog 2: Access Modifiers](./blogs/blog-2-access-modifiers.md)
+[Read Blog 2: Access Modifiers](./blog-2-access-modifiers.md)
 
 ## How to Run the Project
 
