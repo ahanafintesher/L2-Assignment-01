@@ -20,16 +20,12 @@ It also includes two technical blog posts covering important TypeScript concepts
 ```text
 Assignment-01/
 │
-├── src/
-│   └── solutions.ts
-│
-├── blogs/
-│   ├── blog-1-generics-and-promises.md
-│   └── blog-2-access-modifiers.md
+└── solutions.ts
+├── blog-1-generics-and-promises.md
+└── blog-2-access-modifiers.md
 │
 ├── README.md
-├── package.json
-└── tsconfig.json
+
 ```
 
 ## Solutions Overview
